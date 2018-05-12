@@ -1,0 +1,27 @@
+_repo: A-mester_19744
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Surányi, Miklós
+    birthdate: 1882
+    deathdate: 1936
+    gutenberg_agent_id: '8857'
+    url: http://www.gutenberg.org/2009/agents/8857
+    wikipedia: http://hu.wikipedia.org/wiki/Sur%C3%A1nyi_Mikl%C3%B3s
+description: ''
+gutenberg_issued: '2006-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19744'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+title: A mester
+url: http://www.gutenberg.org/ebooks/19744
